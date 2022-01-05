@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  font-family: "Yeseva One", cursive;
+  padding: 5px;
+}
+
+#line {
+  border-left: 5px solid;
+  border-image: linear-gradient(180deg, #ff5959, #ff5959);
+  border-image-slice: 1;
+  height: 100px;
+  display: flex;
+  margin-bottom: -145px;
+  margin-left: -20px;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 33px;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+.main-banner {
+  display: flex;
+}
+
+.half {
+  width: 50%;
+  padding-left: 10%;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.half img {
+  width: 75%;
+  margin-top: -125px;
+}
+
+.one-color {
+  color: tomato;
+}
+
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(#ff5959, #ff5959);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.my-mission-header {
+  margin-top: 120px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+
+.card-experience {
+  width: 25%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  border-radius: 25px;
+  background-color: beige;
+  font-family: "Poppins", sans-serif;
+}
+
+.name-card-img img {
+  width: 50%;
+  margin-left: 1px;
+}
+
+.my-mission {
+  display: flex;
+}
+
+#card-img-one {
+  background-color: #edf5f6;
+}
+
+#card-img-two {
+  background-color: #ffeeee;
+}
+
+#card-img-three {
+  background-color: #fff4d6;
+}
+
+/*Dream Section*/
+.dream-img img {
+  width: 70%;
+  margin-top: 140px;
+  margin-left: 165px;
+}
+
+.dream-cont {
+  font-family: "Poppins", sans-serif;
+  margin-right: 400px;
+  margin-top: 170px;
+}
+
+.dream-pic img {
+  width: 50%;
+  margin-top: 140px;
+  margin-left: 1050px;
+}
+
+.dream-left {
+  font-family: "Poppins", sans-serif;
+  margin-left: -800px;
+  margin-right: 1000px;
+  margin-top: 170px;
+}
+
+footer {
+  width: 97%;
+  margin-left: -6px;
+  height: 12vh;
+  text-align: center;
+  padding: 40px;
+  background-color: black;
+  color: white;
+}
+
+.main-footer-line {
+  font-family: "Lobster", cursive;
+}
